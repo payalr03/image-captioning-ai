@@ -44,17 +44,26 @@ captions.txt # Generated captions
 ```bash
 pip install -r requirements.txt 
 ```
+---
 
 ## ▶️ How to Run
 
 ### 1. Basic script
-```python apps/cli_caption.py```
+```bash
+python apps/cli_caption.py
+```
 
 ### 2. Gradio app
-```python apps/gradio_app.py```
+```bash
+python apps/gradio_app.py
+```
 
 ### 3. Web scraping app
-```python apps/scraper_app.py```
+```bash
+python apps/scraper_app.py
+```
+
+---
 
 ## 🌐 Example Use Case
 
@@ -66,6 +75,8 @@ A news agency can automatically:
 - Enhance accessibility for visually impaired users (alt text)
 - Speed up the article publishing process
 
+---
+
 ## 📌 Tech Stack
 
 - Python
@@ -74,6 +85,8 @@ A news agency can automatically:
 - Gradio
 - BeautifulSoup
 - PIL
+
+---
 
 ### 👤 Author
 
