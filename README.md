@@ -60,18 +60,20 @@ pip install -r requirements.txt
 
 A news agency can automatically:
 
-Extract images from articles
-Generate captions using AI
-Improve SEO + accessibility
+- Extract images from news articles automatically
+- Generate accurate captions using AI models
+- Improve SEO (Search Engine Optimization)
+- Enhance accessibility for visually impaired users (alt text)
+- Speed up the article publishing process
 
 ## 📌 Tech Stack
 
-Python
-Hugging Face Transformers
-PyTorch
-Gradio
-BeautifulSoup
-PIL
+- Python
+- Hugging Face Transformers
+- PyTorch
+- Gradio
+- BeautifulSoup
+- PIL
 
 ### 👤 Author
 
